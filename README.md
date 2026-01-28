@@ -1,6 +1,6 @@
 #  Hi, I'm Christopher Guzman
 
- **Cyber Operations Major @ Augusta University**  
+ **Computer Science Major with a Concentration in Cyber Operations and a Minor in Mathematics @ Augusta University**  
  **Cybersecurity | Networking | Automation | Software Development**  
  Augusta, GA  
  chguzman@augusta.edu  
@@ -10,7 +10,7 @@
 
 ##  About Me
 
-I’m a Cyber Operations student with hands-on experience in cybersecurity, networking, and software development, currently working as a **GRC Analyst Intern**. I enjoy applying technical concepts to real-world security problems, whether that’s evaluating security controls, building proof-of-concepts, or experimenting in my home lab.
+I’m a Computer Science student with hands-on experience in cybersecurity, networking, and software development, currently working as a **GRC Analyst Intern**. I enjoy applying technical concepts to real-world security problems, whether that’s evaluating security controls, building proof-of-concepts, or experimenting in my home lab.
 
 My interests include **cyber defense, risk management, penetration testing, automation, and systems engineering**. I’m actively seeking cybersecurity or computer science internships where I can continue learning and contributing to impactful security initiatives.
 
