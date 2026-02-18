@@ -1,6 +1,6 @@
 #  Hi, I'm Christopher Guzman
 
- **Computer Science Major with a Concentration in Cyber Operations and a Minor in Mathematics @ Augusta University**  
+ **Computer Science and Cyber Operations Major with a Minor in Mathematics @ Augusta University**  
  **Cybersecurity | Networking | Automation | Software Development**  
  Augusta, GA  
  chguzman@augusta.edu  
